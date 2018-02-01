@@ -2,6 +2,8 @@ applications:
 - path: .
   memory: 128M
   instances: 1
-  domain: de.bluemix.net
-  name: test-php
+  domain: eu-de.mybluemix.net
+  name: wordpress2
+  host: wordpress2
   disk_quota: 1024M
+
